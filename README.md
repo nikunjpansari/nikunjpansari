@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nikunj
-- 👀 I’m interested in Information Security and Data Analytics
-- 🌱 I’m currently working on Data Analysis in Information Security & Cryptography
-- 💞️ I’m looking to collaborate on works related to Information and Network Security
+- 👋 Hi, I’m Nikunj Pansari
+- 👀 I’m interested in Information Security & Data Analytics
+- 🌱 I’m experienced Software Engineer and passionate about problem solving & working on real-time applications
+- 💞️ I’m looking to collaborate on works related to Machine learning & Security.
 - 📫 How to reach me - conatct me geeknikunj95@gmail.com
 
 <!---
