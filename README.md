@@ -31,4 +31,4 @@ Feel free to reach out to me at **geeknikunj95@gmail.com**
 I am always eager to expand my knowledge and stay up-to-date with the latest trends and technologies. Let's connect and embark on a journey of collaboration and creativity. Together, we can transform ideas into reality and create remarkable experiences.
 
 ### 📑 For More Information
-For more details and to consult for guidance, visit [my.superstuff.ai/nikunj95/services](https://my.superstuff.ai/nikunj95/services)
+For more details and to consult for guidance, visit [https://super.page/nikunj95/services](https://super.page/nikunj95/services)
